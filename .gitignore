@@ -76,3 +76,5 @@ ProjectSettings/ProjectVersion.txt
 Packages/packages-lock.json
 Packages/manifest.json
 Assets/TextMesh Pro/Sprites/EmojiOne.json
+WebGL Builds/dependencies.txt
+WebGL Builds/GUID.txt

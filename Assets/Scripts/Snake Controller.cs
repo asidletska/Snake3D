@@ -3,8 +3,7 @@ using UnityEngine;
 using UnityEngine.Events;
 
 public class SnakeController : MonoBehaviour
-{
-    
+{    
     public List<Transform> Tails;
     [Range(0,3)]
     public float BonesDistance;
